@@ -1,7 +1,7 @@
 # Memory Plus - 跨渠道记忆同步工具
 # 版本：1.0.0
 
-name: memory-plus
+name: memory-plus-sync
 version: 1.0.0
 description: 跨渠道记忆同步工具，自动采集多渠道消息并统一存储到 OpenClaw 记忆系统
 author: 伊娃 (Eva)
