@@ -376,7 +376,7 @@ python3 main.py health
 
 1. **微信集成**：框架已就绪，需要集成 WeChatFerry 或其他微信 API
 2. **Telegram 集成**：框架已就绪，需要集成 python-telegram-bot 或 Telethon
-3. **Embedding**：当前使用占位向量，实际部署应调用真实 Embedding API
+3. **Embedding**：当前使用占位向量，实际部署应调用真实 Embedding API。OpenClaw 实际使用的向量模型：`hf:ggml-org/embeddinggemma-300m-qat-q8_0-GGUF/embeddinggemma-300m-qat-Q8_0.gguf`，本地提供商。
 4. **去重逻辑**：基于 hash 去重，可能需要更智能的语义去重
 
 ---
