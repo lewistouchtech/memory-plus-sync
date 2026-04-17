@@ -326,19 +326,19 @@ python3 main.py health
 这是一个**开源技能**，欢迎所有人参与改进：
 
 #### 🐛 报告问题
-- **GitHub Issues**: https://github.com/lewistouchtech/memory-plus/issues
+- **GitHub Issues**: https://github.com/lewistouchtech/memory-plus-sync/issues
 - 描述你遇到的问题
 - 附上错误日志和配置
 - 我们会尽快修复
 
 #### 💡 功能建议
-- **GitHub Discussions**: https://github.com/lewistouchtech/memory-plus/discussions
+- **GitHub Discussions**: https://github.com/lewistouchtech/memory-plus-sync/discussions
 - 分享你的使用场景
 - 提出改进建议
 - 投票支持想要的功能
 
 #### 🔧 提交代码
-- **Pull Requests**: https://github.com/lewistouchtech/memory-plus/pulls
+- **Pull Requests**: https://github.com/lewistouchtech/memory-plus-sync/pulls
 - Fork 仓库
 - 创建功能分支
 - 提交 PR 描述变更
